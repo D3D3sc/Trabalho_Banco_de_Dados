@@ -8,7 +8,7 @@ DB_CONFIG = {
     "host": "localhost",
     "database": "gamevault",
     "user": "postgres",
-    "password": "souzasoares"
+    "password": "Sua_Senha"
 }
 
 def get_conn():
